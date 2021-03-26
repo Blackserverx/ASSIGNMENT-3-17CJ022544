@@ -1,0 +1,2 @@
+use TEST;
+SELECT * FROM PABLO;
